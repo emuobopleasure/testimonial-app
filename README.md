@@ -1,3 +1,6 @@
+Project created with react and Tailwind CSS.
+ Live <a href="https://testimonial-app-jade.vercel.app/" target="_blank">Demo</a>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
