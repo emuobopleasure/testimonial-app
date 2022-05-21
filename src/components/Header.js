@@ -13,7 +13,9 @@ const Header = () => {
         <div className='nav-wrapper px-[20px] lg:px-[100px] py-4 items-center md:flex justify-between md:py-2'>
             <div className='nav-header flex items-center justify-between'>
                 <div className='logo'>
-                    <img src='vasiti logo.png' className='logo object-cover'/>
+                    <Link to='/'>
+                        <img src='vasiti logo.png' className='logo object-cover'/>
+                    </Link>
                 </div>
                 <div className='menu-buttons md:hidden text-2xl'>
                   { !showMenu && <button onClick={() => setShowMenu(true)} className='open-menu'>

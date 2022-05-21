@@ -14,7 +14,7 @@ const HeroSection = () => {
                     </p>
                 </div>
                 <div className='hero-image'>
-                    <img src='testimonial image 1.png' className='w-[536px] h-auto object-cover'/>
+                    <img src='hero-image.png' className='w-[536px] h-auto object-cover'/>
                 </div>
             </div>
         </div>
